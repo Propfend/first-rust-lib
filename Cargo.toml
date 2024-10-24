@@ -3,6 +3,7 @@ opt-level = 0
 
 [package]
 name = "rrrryoza"
+authors = ["Miguel mellomello2030@gmail.com"]
 version = "0.1.0"
 edition = "2021"
 description = "A fun game where you guess what number the computer has chosen."
